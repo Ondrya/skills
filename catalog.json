@@ -2,6 +2,14 @@
   "version": 1,
   "skills": [
     {
+      "name": "api-design-laure",
+      "description": "Designs, reviews, and audits web APIs with Arnaud Lauret's consumer-first methodology from The Design of Web APIs, 2nd edition (2025). USE FOR: turning requirements into API capabilities, modeling operations and data, HTTP/OpenAPI contracts, developer experience, security and efficiency constraints, versioning and breaking-change policy, design guidelines, Spectral linting. DO NOT USE FOR: ASP.NET Core implementation details (use dotnet-webapi), C# refactoring, gRPC/protobuf generation, or infrastructure work.",
+      "category": "architecture",
+      "tags": "api-design, rest, openapi, arnaud-laure, versioning, spectral, architecture",
+      "version": "0.1.0",
+      "path": "skills/api-design-laure/SKILL.md"
+    },
+    {
       "name": "csharp-expert",
       "description": "Route C# and .NET requests to the exact installed specialist or smallest dotnet/skills marketplace plugin. USE FOR: \"which specialist should own this\" or \"how do I add the skill\" requests involving ASP.NET Core endpoints, Blazor, MAUI binding, Windows Forms specialist selection or installation, EF Core queries, test or framework migration, runtime CPU/allocation evidence, file-based C#, editor/compiler defects, a surviving MSBuild `.binlog`, or a plugin missing from `/skills`; also use for C# semantics when no narrower specialist exists. DO NOT USE FOR: requests that already name the exact installed specialist to invoke, or work unrelated to C# or .NET.",
       "category": "code",
