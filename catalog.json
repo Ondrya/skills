@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "csharp-expert",
+      "description": "Route C# and .NET requests to the exact installed specialist or smallest dotnet/skills marketplace plugin. USE FOR: \"which specialist should own this\" or \"how do I add the skill\" requests involving ASP.NET Core endpoints, Blazor, MAUI binding, Windows Forms specialist selection or installation, EF Core queries, test or framework migration, runtime CPU/allocation evidence, file-based C#, editor/compiler defects, a surviving MSBuild `.binlog`, or a plugin missing from `/skills`; also use for C# semantics when no narrower specialist exists. DO NOT USE FOR: requests that already name the exact installed specialist to invoke, or work unrelated to C# or .NET.",
+      "category": "code",
+      "tags": "csharp, dotnet, routing, specialists",
+      "version": "1.0.0",
+      "path": "skills/csharp-expert/SKILL.md"
+    },
+    {
+      "name": "csharp-refactoring",
+      "description": "Safely refactors C#/.NET code without changing behavior. USE FOR any request to refactor, rename, move, extract, inline, merge, consolidate, deduplicate, split, or modernize C# code, including partial/generated declarations, wrappers, public APIs, serialization/reflection/configuration names, friend assemblies, conditional compilation, and multi-targeted projects. Also use when a request calls a feature, bug fix, package/framework upgrade, or public nullability change a refactor and the behavior-changing part must be separated or declined. DO NOT USE FOR ordinary feature or bug fixes not presented as refactoring; standalone upgrades after reclassification (use dotnet-upgrade); adding tests; or formatting-only work.",
+      "category": "code",
+      "tags": "csharp, dotnet, refactoring, behavior-preserving",
+      "version": "1.0.0",
+      "path": "skills/csharp-refactoring/SKILL.md"
+    },
+    {
+      "name": "dotnet-webapi",
+      "description": "Guides creation and modification of ASP.NET Core Web API endpoints with correct HTTP semantics, OpenAPI metadata, and error handling. USE FOR: adding new API endpoints (controllers or minimal APIs), wiring up OpenAPI/Swagger, creating .http test files, setting up global error handling middleware. DO NOT USE FOR: general C# coding style, EF Core data access or query optimization (use optimizing-ef-core-queries), frontend/Blazor work, gRPC services, or SignalR hubs.",
+      "category": "code",
+      "tags": "dotnet, aspnet-core, webapi, openapi",
+      "version": "1.0.0",
+      "path": "skills/dotnet-webapi/SKILL.md"
+    },
+    {
+      "name": "ub-mode",
+      "description": "Follow the reduced principles when writing or changing code. Every change follows First Make it Work, then Then Make it Right, then Follow Practice. Use when the user runs /ub-mode or asks for the reduced principles.",
+      "category": "process",
+      "tags": "principles, workflow, code-changes",
+      "version": "1.0.0",
+      "path": "skills/ub-mode/SKILL.md"
+    }
+  ]
+}
